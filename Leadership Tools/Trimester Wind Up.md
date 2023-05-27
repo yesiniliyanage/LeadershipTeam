@@ -32,10 +32,4 @@ The purpose of this document is to provide a central checklist for leadership to
 |  | **MOP Project** If you are stuck on how to identify a use case, watch the workshop from T1 2023 on creating usecases. | [Workshop video](https://deakin365.sharepoint.com/:v:/s/Chameleon2/EUF1UfqGvt1BvX25FlPS5qMBnTfb5eh8FFX0VRWgHCEdnw?e=WTqltg) |
 | Week 3 | Last week to upskill. Review how to set up sprints and start planning. |  |
 |  | **MOP Project** Meet with the client! |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 | Week 4 | Offically start sprints (if not already) |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
